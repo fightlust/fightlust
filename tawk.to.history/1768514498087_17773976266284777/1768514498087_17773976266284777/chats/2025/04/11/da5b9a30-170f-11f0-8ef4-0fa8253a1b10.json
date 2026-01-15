@@ -1,0 +1,46 @@
+{
+  "id": "da5b9a30-170f-11f0-8ef4-0fa8253a1b10",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1744401730340621",
+    "id": "628ed4ee7b967b11799146e8-OvkWW0RRIemlX9XdqoKif",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Unknown"
+  },
+  "messageCount": 2,
+  "chatDuration": 807,
+  "rating": 0,
+  "createdOn": "2025-04-11T20:02:48.383Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-04-11T20:02:48.383Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-11T20:16:10.688Z",
+      "msg": "Where is your deliverance prayer video located? I saw it the other day and can’t find it now. Thanks!"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-11T20:16:15.266Z",
+      "msg": "You can find the deliverance prayer video on our site at this link: [Deliverance Prayer Video](https://fightlust.com/attack/deliverance-prayer1/). If you need any more assistance, feel free to ask!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

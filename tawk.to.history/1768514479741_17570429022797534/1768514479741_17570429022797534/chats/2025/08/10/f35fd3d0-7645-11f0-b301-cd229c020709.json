@@ -1,0 +1,46 @@
+{
+  "id": "f35fd3d0-7645-11f0-b301-cd229c020709",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1754870325578358",
+    "id": "628ed4ee7b967b11799146e8-njuJ92mA5NCiwWqpOmnhI",
+    "email": null
+  },
+  "location": {
+    "countryCode": "UG",
+    "city": "Kampala"
+  },
+  "messageCount": 2,
+  "chatDuration": 4,
+  "rating": 0,
+  "createdOn": "2025-08-10T23:59:17.742Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-08-10T23:59:17.742Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-08-11T00:06:21.256Z",
+      "msg": "Hi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-08-11T00:06:25.738Z",
+      "msg": "Hello! Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

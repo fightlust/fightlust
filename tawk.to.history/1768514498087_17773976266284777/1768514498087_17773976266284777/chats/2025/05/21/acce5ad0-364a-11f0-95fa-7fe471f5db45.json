@@ -1,0 +1,30 @@
+{
+  "id": "acce5ad0-364a-11f0-95fa-7fe471f5db45",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1747835480256813",
+    "id": "628ed4ee7b967b11799146e8-kxrIokVAlCQvLBaBRm8cP",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Mumbai"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2025-05-21T13:52:17.703Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-21T13:52:17.703Z",
+      "msg": "Hello"
+    }
+  ],
+  "domain": "fightlust.com"
+}

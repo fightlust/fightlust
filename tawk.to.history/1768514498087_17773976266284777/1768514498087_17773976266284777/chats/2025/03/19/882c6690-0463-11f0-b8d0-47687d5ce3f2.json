@@ -1,0 +1,63 @@
+{
+  "id": "882c6690-0463-11f0-b8d0-47687d5ce3f2",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1742348598074401",
+    "id": "628ed4ee7b967b11799146e8-pOmQzRt1_JEefvFDyy9wV",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Unknown"
+  },
+  "messageCount": 4,
+  "chatDuration": 381,
+  "rating": 0,
+  "createdOn": "2025-03-19T01:43:49.362Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-03-19T01:43:49.362Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T01:49:24.984Z",
+      "msg": "I need prayer please I’m desperate I have no place to go please I need to chat with any Christian who can save my soul"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T01:49:29.426Z",
+      "msg": "I'm really sorry to hear that you're feeling this way. We are here to pray with you and for you. Please share your specific prayer request, and I'll make sure to lift you up in prayer. If you need someone to talk to, I can help connect you with support. You're not alone in this."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T01:49:58.357Z",
+      "msg": "Connect with support"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T01:50:09.931Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey."
+    }
+  ],
+  "domain": "fightlust.com"
+}

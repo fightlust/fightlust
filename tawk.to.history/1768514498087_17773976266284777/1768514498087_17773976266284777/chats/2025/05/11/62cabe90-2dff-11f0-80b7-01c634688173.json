@@ -1,0 +1,97 @@
+{
+  "id": "62cabe90-2dff-11f0-80b7-01c634688173",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1746923534542361",
+    "id": "628ed4ee7b967b11799146e8-yIEJed7go6l6vCs0KSrAi",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GB",
+    "city": "Walsall"
+  },
+  "messageCount": 8,
+  "chatDuration": 115,
+  "rating": 0,
+  "createdOn": "2025-05-11T00:32:45.848Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:32:45.848Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:33:39.476Z",
+      "msg": "Hello"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:33:42.877Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:33:59.763Z",
+      "msg": "Gone threw alot of healing just feeling alone"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:34:02.917Z",
+      "msg": "I'm sorry to hear that you're feeling alone. We're here to offer support and encouragement. Would you like to share a prayer request or talk about how you're feeling?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:34:16.273Z",
+      "msg": "Is this a computer response"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:34:22.997Z",
+      "msg": "I understand your concern. I'm here to provide support and assistance. If you'd prefer to speak with a human agent, I can help with that. Would you like me to escalate the conversation?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:34:34.458Z",
+      "msg": "Yes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-11T00:34:40.421Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey."
+    }
+  ],
+  "domain": "fightlust.com"
+}

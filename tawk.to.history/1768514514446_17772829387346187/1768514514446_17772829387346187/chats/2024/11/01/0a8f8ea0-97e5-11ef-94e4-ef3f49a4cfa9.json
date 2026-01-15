@@ -1,0 +1,63 @@
+{
+  "id": "0a8f8ea0-97e5-11ef-94e4-ef3f49a4cfa9",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1730419545188122",
+    "id": "628ed4ee7b967b11799146e8-W9bcuihAqCcG2tLMh5ujr",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Marlborough"
+  },
+  "messageCount": 4,
+  "chatDuration": 940,
+  "rating": 0,
+  "createdOn": "2024-11-01T00:06:16.132Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-11-01T00:06:16.132Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-01T00:20:49.417Z",
+      "msg": "Hello, please pray for me. There is a demonic spirit that continually comes into my room while I’m sleeping & has its way with me sexually. I have a problem with lust & I believe that’s why it keeps bothering me. It also knows that I’m choosing to walk with Christ . Please pray & help me. God bless"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-01T00:20:56.958Z",
+      "msg": "I'm here to support you in your journey. Let's pray together:\n\nHeavenly Father, we come before you today, asking for your protection and strength. We renounce any spirits of lust and perversion that may be troubling you. In the name of Jesus Christ, we cast out all spirits that are not of you and ask for your Holy Spirit to fill this space. We break any ungodly soul ties and command all spirits of loneliness and lust to leave now. \n\nRemember, you are not alone in this fight. We are here to support you. If you need further guidance or resources, please let me know. God bless you!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-01T00:21:52.537Z",
+      "msg": "Thank you"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-01T00:21:56.328Z",
+      "msg": "You're welcome! If you need anything else or want to talk more, feel free to reach out. We're here to support you on your journey. God bless!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "444d04c0-0a59-11ef-bab9-c1aece520280",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1714856398453366",
+    "id": "628ed4ee7b967b11799146e8-NwURBNhHFwe_vT5RnYyYR",
+    "email": null
+  },
+  "location": {
+    "countryCode": "CA",
+    "city": "Calgary"
+  },
+  "messageCount": 10,
+  "chatDuration": 112,
+  "rating": 0,
+  "createdOn": "2024-05-04T21:00:29.820Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:00:29.820Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:00:59.436Z",
+      "msg": "I have difficulties resisting it and praying"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:01:04.772Z",
+      "msg": "I understand that it can be challenging to resist temptations and find the strength to pray. It's important to remember that our strength comes from the Lord. Have you tried using the resources available on our site to help you in your journey? If you need specific guidance on prayers or resources, feel free to ask, and I'll be happy to assist you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:01:23.734Z",
+      "msg": "Please I need"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:01:27.728Z",
+      "msg": "I'm here to help. Let's start by focusing on the power of prayer. Have you seen the prayer resources available on our site? If not, I can guide you to specific prayers that can provide comfort and strength during this difficult time."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:01:45.547Z",
+      "msg": "No"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:01:47.697Z",
+      "msg": "I understand. Let me guide you to the prayer section on our website. You can find a variety of prayers tailored to help you through your struggles. Take a moment to visit the prayer section, and if you have any questions or need further assistance, feel free to reach out."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:02:02.722Z",
+      "msg": "Ok thanks"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:02:04.719Z",
+      "msg": "You're welcome. Remember, you are not alone in this journey. If you need anything else or have further questions, don't hesitate to ask. We are here to support you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:02:19.700Z",
+      "msg": "Ok I appreciate"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-04T21:02:22.308Z",
+      "msg": "You're very welcome. Remember, you are in our thoughts and prayers. If you ever need to talk or seek guidance, we are here for you. Stay strong, and may you find peace and strength in your journey towards healing."
+    }
+  ],
+  "domain": "www.fightlust.com"
+}

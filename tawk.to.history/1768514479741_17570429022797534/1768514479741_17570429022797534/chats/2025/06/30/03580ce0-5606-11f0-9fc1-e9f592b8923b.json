@@ -1,0 +1,46 @@
+{
+  "id": "03580ce0-5606-11f0-9fc1-e9f592b8923b",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1751324427376307",
+    "id": "628ed4ee7b967b11799146e8-rd3ENAQZjxUY4fdVIdzCW",
+    "email": null
+  },
+  "location": {
+    "countryCode": "PH",
+    "city": "Cebu City"
+  },
+  "messageCount": 2,
+  "chatDuration": 6,
+  "rating": 0,
+  "createdOn": "2025-06-30T23:01:01.072Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-06-30T23:01:01.072Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-30T23:11:56.909Z",
+      "msg": "Thank you for this prayer"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-30T23:12:03.220Z",
+      "msg": "You're welcome! If you have any specific prayer requests or need further support, feel free to share. We're here to help you on your journey towards healing!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

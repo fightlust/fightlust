@@ -1,0 +1,63 @@
+{
+  "id": "d067f590-11a7-11f0-9e68-b9c3a26b3f2b",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1743807290175544",
+    "id": "628ed4ee7b967b11799146e8-sOv2sgIMX6LmJmkmxrKZp",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Unknown"
+  },
+  "messageCount": 4,
+  "chatDuration": 740,
+  "rating": 0,
+  "createdOn": "2025-04-04T22:55:26.015Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-04-04T22:55:26.015Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-04T23:05:55.741Z",
+      "msg": "Hello please"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-04T23:06:01.789Z",
+      "msg": "Hello! Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-04T23:07:41.681Z",
+      "msg": "Please pray for me to stay away from lust. I love God so much but lust and masterbation is working against me"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-04T23:07:46.183Z",
+      "msg": "Thank you for sharing your request. We are here to pray with you. Here’s a prayer you can use:\n\n\"Heavenly Father, I come before you today, seeking your strength and guidance. I love you so much, and I ask for your help to stay away from lust and masturbation. Please cleanse my heart and mind, and help me to focus on you. I renounce all sexual sins and ask for your Holy Spirit to fill me with purity and strength. Thank you for your love and grace. In Jesus' name, I pray. Amen.\"\n\nIf you need further support or resources, feel free to ask!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

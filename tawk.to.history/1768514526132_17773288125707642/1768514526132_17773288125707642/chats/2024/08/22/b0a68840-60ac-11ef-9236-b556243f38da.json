@@ -1,0 +1,37 @@
+{
+  "id": "b0a68840-60ac-11ef-9236-b556243f38da",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1724348028545174",
+    "id": "628ed4ee7b967b11799146e8-AMxVWjxPQdjmCh1JMUmIZ",
+    "email": null
+  },
+  "location": {
+    "countryCode": "NG",
+    "city": "Unknown"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2024-08-22T17:34:21.240Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-08-22T17:34:21.240Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-22T17:38:32.384Z",
+      "msg": "Step to overcome porn and masturbation"
+    }
+  ],
+  "domain": "www.fightlust.com"
+}

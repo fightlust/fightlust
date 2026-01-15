@@ -1,0 +1,37 @@
+{
+  "id": "6d09fc00-6991-11ef-90ed-7d539b11e443",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1725325879190863",
+    "id": "628ed4ee7b967b11799146e8-5pqz9qltgeqfHWEVQoK_H",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GH",
+    "city": "Accra"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2024-09-03T01:11:51.126Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-09-03T01:11:51.126Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-09-03T01:12:13.714Z",
+      "msg": "i need deliverance"
+    }
+  ],
+  "domain": "fightlust.com"
+}

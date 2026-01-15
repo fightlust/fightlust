@@ -1,0 +1,63 @@
+{
+  "id": "608297b0-a133-11ef-aa07-cf89fc29c5b2",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1731442750595573",
+    "id": "628ed4ee7b967b11799146e8-5FDNGkT1uyJHRtiNjF3JX",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Unknown"
+  },
+  "messageCount": 4,
+  "chatDuration": 40,
+  "rating": 0,
+  "createdOn": "2024-11-12T20:19:42.887Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-11-12T20:19:42.887Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-12T20:19:58.107Z",
+      "msg": "Yes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-12T20:19:59.556Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-12T20:20:18.291Z",
+      "msg": "I need deliverance from the spirit of Lust"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-12T20:20:23.274Z",
+      "msg": "Struggling with the spirit of lust can be challenging, but we're here to help. Would you like to join me in a prayer for deliverance? Here’s a prayer you can use:\n\n\"Heavenly Father, we come before your throne room today through the blood of Jesus Christ. We pray against the Spirit of lust within our hearts, minds, and bodies. We renounce all sexual sins and break all curses of lust in the name of Jesus Christ. We cast out all spirits of perversion and receive the Spirit of holiness to walk in sexual purity. Fill us with the power of your Holy Spirit, Lord.\"\n\nIf you have specific requests or need further support, feel free to share!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

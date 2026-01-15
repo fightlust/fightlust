@@ -1,0 +1,38 @@
+{
+  "id": "c2481b90-9bca-11f0-87a5-7544ec59dc35",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1758995559340331",
+    "id": "628ed4ee7b967b11799146e8-imNTOznGZXBVmtXmAsyWS",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GB",
+    "city": "Unknown"
+  },
+  "messageCount": 2,
+  "chatDuration": 6,
+  "rating": 0,
+  "createdOn": "2025-09-27T17:53:04.303Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-09-27T17:53:04.303Z",
+      "msg": "Pls help"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-09-27T17:53:10.702Z",
+      "msg": "Please wait while we connect you. If you're unable to reach someone, feel free to email us at prayer@fightlust.com."
+    }
+  ],
+  "domain": "fightlust.com"
+}

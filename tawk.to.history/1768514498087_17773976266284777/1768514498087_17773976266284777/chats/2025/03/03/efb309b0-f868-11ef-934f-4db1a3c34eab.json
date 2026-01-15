@@ -1,0 +1,63 @@
+{
+  "id": "efb309b0-f868-11ef-934f-4db1a3c34eab",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1741031505294856",
+    "id": "628ed4ee7b967b11799146e8-slwXNcPSkLpuEVr39vvq6",
+    "email": null
+  },
+  "location": {
+    "countryCode": "DE",
+    "city": "Frankfurt am Main"
+  },
+  "messageCount": 4,
+  "chatDuration": 400,
+  "rating": 0,
+  "createdOn": "2025-03-03T19:52:17.191Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-03-03T19:52:17.191Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-03T19:54:22.074Z",
+      "msg": "Hello, I would be very grateful if somebody would pray for me: I am struggeling with a spirit of incest, and want to be delivered. Blessings"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-03T19:54:35.455Z",
+      "msg": "Hello! Thank you for reaching out. We're here to pray with you and for you. Your request is important, and we will lift you up in prayer for deliverance and healing. If you have any specific details you'd like to share or if there's anything else we can assist you with, please let us know. Blessings to you!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-03T19:58:37.043Z",
+      "msg": "yes, I would like to add some details: when I was 5 years old, my father abused me.Now, as an adult women I often feel impure and full of shame, especcialy in christian community. I live in purity and want to serve the lord and go to church every sunday, but I am very afraid of other christians, feel unworthy and like beig \" a mistake\"."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-03T19:58:57.126Z",
+      "msg": "Thank you for sharing your story with me. It takes a lot of courage to open up about such painful experiences. Remember, you are not alone in this journey, and there is hope for healing and restoration. \n\nWe can pray for you to find peace, strength, and a sense of worthiness in Christ. It's important to know that God's grace covers all, and He loves you deeply. If you would like, I can also help guide you to scriptures and resources that can provide encouragement and support. Please let me know how else I can assist you!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

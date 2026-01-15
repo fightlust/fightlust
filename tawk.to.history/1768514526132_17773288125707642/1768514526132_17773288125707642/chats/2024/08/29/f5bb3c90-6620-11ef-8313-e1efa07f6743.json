@@ -1,0 +1,46 @@
+{
+  "id": "f5bb3c90-6620-11ef-8313-e1efa07f6743",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721767894064228",
+    "id": "628ed4ee7b967b11799146e8-fKfzMWIFGajomYV955jNe",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Charlotte"
+  },
+  "messageCount": 2,
+  "chatDuration": 319,
+  "rating": 0,
+  "createdOn": "2024-08-29T16:09:14.389Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-08-29T16:09:14.389Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-29T16:14:25.088Z",
+      "msg": "I pray that God would release me from all worldly living and create in me Godliness and that he would grant me repentance to turn from all deception that the devil had ensnared me to believe and speak I pray that my eyes would be opened to God's truth and that he would grant me the opportunity to live in his truth and leave the life of Satan and NEVER return I want to be a godly true man of God and know what the will of God is truly for my life I want to be a godly man that has a life inside of Christ and not the enemy"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-29T16:14:32.955Z",
+      "msg": "Thank you for sharing your heartfelt prayer. We're here to support you in your journey towards healing and godliness. Would you like me to guide you to specific prayers or resources that can help you in this process?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

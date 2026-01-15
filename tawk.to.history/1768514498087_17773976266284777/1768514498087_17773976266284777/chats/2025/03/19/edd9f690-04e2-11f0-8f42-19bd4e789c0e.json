@@ -1,0 +1,46 @@
+{
+  "id": "edd9f690-04e2-11f0-8f42-19bd4e789c0e",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1742403314773898",
+    "id": "628ed4ee7b967b11799146e8-WuVcPTlZ2tbwuUAgyBkZD",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Lompoc"
+  },
+  "messageCount": 2,
+  "chatDuration": 540,
+  "rating": 0,
+  "createdOn": "2025-03-19T16:55:45.804Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-03-19T16:55:45.804Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T17:04:42.249Z",
+      "msg": "I M struggling with lust"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T17:04:45.817Z",
+      "msg": "Struggling with lust can be challenging, but you're not alone. We're here to offer guidance and prayer. How can we assist you in your journey towards healing today?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

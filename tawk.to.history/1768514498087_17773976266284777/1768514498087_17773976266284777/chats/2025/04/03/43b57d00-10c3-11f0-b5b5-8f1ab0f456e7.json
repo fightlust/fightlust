@@ -1,0 +1,72 @@
+{
+  "id": "43b57d00-10c3-11f0-b5b5-8f1ab0f456e7",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1743708670692638",
+    "id": "628ed4ee7b967b11799146e8-McvPq7Dlvn0Jjw3nG2KSU",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Johannesburg"
+  },
+  "messageCount": 6,
+  "chatDuration": 128,
+  "rating": 0,
+  "createdOn": "2025-04-03T19:40:07.218Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:40:07.218Z",
+      "msg": "Hello."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:40:15.759Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:41:22.785Z",
+      "msg": "I am addicted to watching porn and masterbating"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:41:27.638Z",
+      "msg": "Struggling with pornography or sexual addiction? We're here to offer guidance and prayer. How can we assist you?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:42:08.382Z",
+      "msg": "am addicted to watching porn and masterbating"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-03T19:42:15.118Z",
+      "msg": "I'm here to help you. It's important to focus on Christ for healing and freedom. Would you like to talk about how you're feeling or share a prayer request?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

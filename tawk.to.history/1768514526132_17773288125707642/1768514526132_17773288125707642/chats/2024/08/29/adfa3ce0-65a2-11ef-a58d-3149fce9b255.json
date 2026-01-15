@@ -1,0 +1,80 @@
+{
+  "id": "adfa3ce0-65a2-11ef-a58d-3149fce9b255",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721767894064228",
+    "id": "628ed4ee7b967b11799146e8-fKfzMWIFGajomYV955jNe",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Charlotte"
+  },
+  "messageCount": 6,
+  "chatDuration": 225,
+  "rating": 0,
+  "createdOn": "2024-08-29T01:05:16.996Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:05:16.996Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:06:59.444Z",
+      "msg": "I just put the new ring on me and my wife finger I want this marriage to be God honoring for once I want it to be cleansed from my adultery and healed"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:07:03.762Z",
+      "msg": "Congratulations on your new ring! It's wonderful to hear that you want your marriage to be God-honoring. We can certainly support you in seeking healing and cleansing from past struggles. Would you like to share a prayer request? We're here to pray with you and for you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:07:25.324Z",
+      "msg": "Can you pray for us and with us"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:07:28.303Z",
+      "msg": "Absolutely! I would be honored to pray for you and your wife. Here’s a prayer for healing and restoration:\n\n\"Dear Lord, we come before you seeking your grace and mercy. We ask for healing in this marriage, cleansing from past mistakes, and a renewed commitment to honor you in every aspect of their lives together. Please guide them in their journey towards restoration and fill their hearts with love, understanding, and forgiveness. Amen.\"\n\nIf you have specific requests or areas you'd like us to focus on in prayer, feel free to share!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:08:58.708Z",
+      "msg": "Thank you all continued prayers would be appreciated"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-29T01:09:01.537Z",
+      "msg": "You're very welcome! We will keep you and your wife in our prayers. If you ever want to share more specific requests or need someone to talk to, don't hesitate to reach out. We're here to support you on your journey towards healing."
+    }
+  ],
+  "domain": "fightlust.com"
+}

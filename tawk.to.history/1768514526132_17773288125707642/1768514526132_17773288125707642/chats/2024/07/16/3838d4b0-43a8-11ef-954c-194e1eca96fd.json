@@ -1,0 +1,63 @@
+{
+  "id": "3838d4b0-43a8-11ef-954c-194e1eca96fd",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721156292304807",
+    "id": "628ed4ee7b967b11799146e8-8YD0eVoInLoUycB4B_CX5",
+    "email": null
+  },
+  "location": {
+    "countryCode": "NA",
+    "city": "Windhoek"
+  },
+  "messageCount": 4,
+  "chatDuration": 189,
+  "rating": 0,
+  "createdOn": "2024-07-16T19:19:17.111Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-07-16T19:19:17.111Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-07-16T19:21:37.098Z",
+      "msg": "Hi Greeting in name of the Lord, still reading through the site."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-07-16T19:21:38.865Z",
+      "msg": "Greetings in the name of the Lord! Take your time exploring the site. If you have any questions or need assistance with anything, feel free to let me know. How can I support you today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-07-16T19:22:23.560Z",
+      "msg": "Thank you."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-07-16T19:22:26.146Z",
+      "msg": "You're welcome! If you need any help or have any questions, I'm here for you. How can I assist you further?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

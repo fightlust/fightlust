@@ -1,0 +1,97 @@
+{
+  "id": "ea2ac510-5f96-11f0-8ee9-ddaa09a7135e",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1752376222557387",
+    "id": "628ed4ee7b967b11799146e8-E9OsvOFsG8UbEHGxxEErX",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "San Diego"
+  },
+  "messageCount": 8,
+  "chatDuration": 93,
+  "rating": 0,
+  "createdOn": "2025-07-13T03:10:53.863Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:10:53.863Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:14:10.512Z",
+      "msg": "Yes please"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:14:13.640Z",
+      "msg": "How can we support you in your journey towards healing today? If you have specific prayer requests or need guidance, feel free to share!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:14:26.342Z",
+      "msg": "Battling lust"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:14:47.826Z",
+      "msg": "Struggling with lust can be challenging, but you're not alone. We can offer guidance and prayer to help you through this. Would you like to share a specific prayer request or talk about what you're experiencing?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:15:03.683Z",
+      "msg": "That"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:15:10.319Z",
+      "msg": "Let's pray together for strength and healing. \n\nHeavenly Father, we come before you today, seeking your help and strength. We ask for your guidance to overcome the battle against lust. Please cleanse our hearts and minds, and help us to walk in purity. Fill us with the power of your Holy Spirit, and help us to resist temptation. We thank you for your love and grace. In Jesus' name, we pray. Amen.\n\nIf you have any specific areas you'd like to focus on or any other requests, feel free to share!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:15:39.174Z",
+      "msg": "Thank u"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-13T03:15:43.765Z",
+      "msg": "You're very welcome! If you need anything else or want to talk more, I'm here for you. Remember, we're here to support you on your journey."
+    }
+  ],
+  "domain": "fightlust.com"
+}

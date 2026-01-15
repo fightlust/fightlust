@@ -1,0 +1,80 @@
+{
+  "id": "28fcd6d0-be82-11f0-856e-1b4a026e01d9",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1762812667147576",
+    "id": "628ed4ee7b967b11799146e8-dVxl_oZ3hWzp6WJHWO0TJ",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GB",
+    "city": "Devizes"
+  },
+  "messageCount": 6,
+  "chatDuration": 47,
+  "rating": 0,
+  "createdOn": "2025-11-10T22:11:40.453Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:11:40.453Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:28:34.803Z",
+      "msg": "Yes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:28:39.593Z",
+      "msg": "How can we support you in your journey towards healing today? If you have specific questions or need guidance, feel free to share!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:28:51.818Z",
+      "msg": "Deliverance"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:28:56.014Z",
+      "msg": "We offer a powerful deliverance prayer that can help you break free from the chains of temptation and sin. Would you like me to share the details of that prayer with you?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:29:16.533Z",
+      "msg": "Can I effectively do it myself?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-11-10T22:29:22.250Z",
+      "msg": "Yes, you can effectively pray for deliverance yourself. It's important to approach it with faith and sincerity. If you'd like, I can provide you with a specific deliverance prayer that you can use. Would you like that?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

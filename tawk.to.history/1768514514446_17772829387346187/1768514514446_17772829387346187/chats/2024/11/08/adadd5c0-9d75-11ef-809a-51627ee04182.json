@@ -1,0 +1,63 @@
+{
+  "id": "adadd5c0-9d75-11ef-809a-51627ee04182",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1731029070885391",
+    "id": "628ed4ee7b967b11799146e8-2YUDhsKrxdFFKkC3sU9cy",
+    "email": null
+  },
+  "location": {
+    "countryCode": "FJ",
+    "city": "Unknown"
+  },
+  "messageCount": 4,
+  "chatDuration": 133,
+  "rating": 0,
+  "createdOn": "2024-11-08T02:04:14.090Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-11-08T02:04:14.090Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-08T02:04:51.002Z",
+      "msg": "thank you Jeremy"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-08T02:04:53.715Z",
+      "msg": "You're welcome! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-11-08T02:06:17.187Z",
+      "msg": "in my heart i feel my husband is trapped by the spirit of adultery and lust"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-11-08T02:06:27.413Z",
+      "msg": "I'm sorry to hear that you're feeling this way. It's important to seek support during difficult times. Would you like to share a prayer request? We're here to pray with you and for you."
+    }
+  ],
+  "domain": "fightlust.com"
+}

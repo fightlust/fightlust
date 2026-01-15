@@ -1,0 +1,46 @@
+{
+  "id": "ada54c00-ec1e-11ef-9c96-03bf08c1470e",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1739680197788315",
+    "id": "628ed4ee7b967b11799146e8-9J9jzCiW6EqD9FpODvcIS",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GH",
+    "city": "Unknown"
+  },
+  "messageCount": 2,
+  "chatDuration": 26,
+  "rating": 0,
+  "createdOn": "2025-02-16T04:30:29.579Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-02-16T04:30:29.579Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-16T04:30:48.091Z",
+      "msg": "Ok thanks"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-16T04:30:55.410Z",
+      "msg": "You're welcome! If you have any questions or need support, feel free to ask. How can we assist you today?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

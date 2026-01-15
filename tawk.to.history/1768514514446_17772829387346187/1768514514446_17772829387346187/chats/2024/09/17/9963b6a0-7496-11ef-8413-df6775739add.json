@@ -1,0 +1,54 @@
+{
+  "id": "9963b6a0-7496-11ef-8413-df6775739add",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721767894064228",
+    "id": "628ed4ee7b967b11799146e8-fKfzMWIFGajomYV955jNe",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Charlotte"
+  },
+  "messageCount": 3,
+  "chatDuration": 315,
+  "rating": 0,
+  "createdOn": "2024-09-17T01:46:35.393Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-09-17T01:46:35.393Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-09-17T01:50:07.479Z",
+      "msg": "I want to repent of all sexual sin I have been involved with I  repent and ask for forgiveness I ask for the grace from above to resist all future temptations I strive to live a life of holiness and I ask help of the holy spirit I come out of agreement with all sexual agreements I made with the enemy through sin"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-09-17T01:51:08.022Z",
+      "msg": "I come into agreement and agree that you are set free in Christ now just go and abide with him daily and sit at his feet and meditate on his verses throughout the day. The more you meditate on him the more you spend time with him is the more you will be walking in the spirit, and if you walk in the spirit, you cannot fulfill the desires of the flesh."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-09-17T01:51:50.527Z",
+      "msg": "How do you walk in the spirit?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

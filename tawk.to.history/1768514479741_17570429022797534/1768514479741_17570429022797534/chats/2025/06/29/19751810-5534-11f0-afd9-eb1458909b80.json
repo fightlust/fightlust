@@ -1,0 +1,63 @@
+{
+  "id": "19751810-5534-11f0-afd9-eb1458909b80",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1751234270190767",
+    "id": "628ed4ee7b967b11799146e8-PE_umvc5Ucr_7kzcQC_Hb",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Belle Vernon"
+  },
+  "messageCount": 4,
+  "chatDuration": 88,
+  "rating": 0,
+  "createdOn": "2025-06-29T21:58:21.207Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-06-29T21:58:21.207Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-29T22:01:04.548Z",
+      "msg": "Hi, my name is Omar"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-29T22:01:12.801Z",
+      "msg": "Welcome, Omar! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-29T22:02:27.471Z",
+      "msg": "Ok, you can pray for me, coz struggling for this addiction. I became desperate and losing faith."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-29T22:02:32.919Z",
+      "msg": "I'm really sorry to hear that you're feeling this way, Omar. We're here to pray with you and for you. \n\nHeavenly Father, we come before you today, asking for strength and healing for Omar. We pray that you fill him with your peace and guide him on his journey towards freedom from this addiction. Help him to feel your presence and love, and restore his faith in you. In Jesus' name, we pray. Amen.\n\nIf you need more support or resources, feel free to let me know!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

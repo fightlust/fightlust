@@ -1,0 +1,131 @@
+{
+  "id": "a07c1820-eb46-11ef-8a9b-111c0d225af3",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1739587404399432",
+    "id": "628ed4ee7b967b11799146e8-cQGhITW_mhWedIkvfb1zP",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Saint Cloud"
+  },
+  "messageCount": 12,
+  "chatDuration": 278,
+  "rating": 0,
+  "createdOn": "2025-02-15T02:43:56.458Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:43:56.458Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:44:37.489Z",
+      "msg": "Just trying to get over some personal demons"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:44:49.337Z",
+      "msg": "I'm sorry to hear that you're struggling. We're here to offer guidance and prayer. Would you like to share more about what you're going through?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:46:10.892Z",
+      "msg": "Trying to get over being molested/sexually abused when I was younger, which has caused legal trouble for me now that I have a current case of possession of child pornography against me."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:46:14.968Z",
+      "msg": "I'm really sorry to hear that you're facing such difficult challenges. It's important to know that you're not alone, and there is support available. Would you like to share a prayer request? We're here to pray with you and for you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:46:58.676Z",
+      "msg": "A prayer to help me find a treatment place for these issues and that I won't be sent to prison."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:47:03.148Z",
+      "msg": "Thank you for sharing your prayer request. We can certainly pray for guidance in finding a treatment place and for your situation regarding the legal issues. Remember, God is always there to support you. Would you like me to guide you to some specific prayers or resources that might help?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:47:21.721Z",
+      "msg": "Yes please"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:47:28.146Z",
+      "msg": "Here’s a prayer you can use to seek guidance and support:\n\n\"Heavenly Father, I come before you today seeking your help and guidance. I ask for your strength as I navigate through these difficult times. Please lead me to a treatment place where I can find healing and support for my past. I also pray for your mercy and favor in my legal situation, that I may find a path that leads to restoration and not punishment. Thank you for your love and grace. In Jesus' name, Amen.\"\n\nIf you need more specific resources or prayers, feel free to ask!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:48:04.513Z",
+      "msg": "Thank you"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:48:10.002Z",
+      "msg": "You're welcome! If you need anything else or just want to talk, I'm here for you. Remember, you're not alone in this journey."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:48:28.081Z",
+      "msg": "God bless you Pastor"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T02:48:34.357Z",
+      "msg": "Thank you! God bless you too. If you have any more questions or need support, feel free to reach out. We're here to help you on your journey."
+    }
+  ],
+  "domain": "fightlust.com"
+}

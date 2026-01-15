@@ -1,0 +1,80 @@
+{
+  "id": "c0f7dfd0-56a8-11f0-8291-29b75c349281",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1751394324000840",
+    "id": "628ed4ee7b967b11799146e8-8xnZ_ZuQ3ICPLkn8zj4BA",
+    "email": null
+  },
+  "location": {
+    "countryCode": "GB",
+    "city": "Unknown"
+  },
+  "messageCount": 6,
+  "chatDuration": 82,
+  "rating": 0,
+  "createdOn": "2025-07-01T18:25:55.989Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:25:55.989Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:26:31.939Z",
+      "msg": "Hi yes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:26:37.393Z",
+      "msg": "Welcome! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:27:19.858Z",
+      "msg": "How to pray against whatever spirit causes a man to visit chat sites when he is married ?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:27:31.981Z",
+      "msg": "We can guide you through a powerful prayer to help address this struggle. Here’s a prayer you can use:\n\n\"Heavenly Father, we come before you today, seeking your strength and guidance. We ask you to help us resist the temptations that lead us away from our commitments. We pray against the spirit of lust and any unclean thoughts that may arise. Lord, we ask you to cleanse our hearts and minds, and help us to focus on our marriage and the love we have for our spouse. We renounce any spirits that would drive us to seek fulfillment outside of our relationship. Fill us with your Holy Spirit and guide us to walk in purity and faithfulness. In Jesus' name, we pray. Amen.\"\n\nIf you need more specific resources or support, feel free to ask!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:27:48.990Z",
+      "msg": "Are U ai"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-01T18:27:53.590Z",
+      "msg": "Yes, I'm here to assist you! If you have any questions or need support, just let me know how I can help."
+    }
+  ],
+  "domain": "fightlust.com"
+}

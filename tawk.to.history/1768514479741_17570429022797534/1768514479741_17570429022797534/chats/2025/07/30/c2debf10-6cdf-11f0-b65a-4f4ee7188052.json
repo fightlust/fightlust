@@ -1,0 +1,97 @@
+{
+  "id": "c2debf10-6cdf-11f0-b65a-4f4ee7188052",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "Valerie",
+    "id": "628ed4ee7b967b11799146e8-gLqHIMEnOzJrJicp3KmZm",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Tulsa"
+  },
+  "messageCount": 8,
+  "chatDuration": 207,
+  "rating": 0,
+  "createdOn": "2025-07-30T00:55:06.692Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-07-30T00:55:06.692Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:03:02.375Z",
+      "msg": "Hello, please pray for me to stop drinking beer and healing from anxiety and healing for my nerves from trauma"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:03:08.367Z",
+      "msg": "Thank you for sharing your prayer request. We are here to pray with you and for you. \n\nHeavenly Father, we come before you today, asking for healing and strength for our friend. We pray for the desire to stop drinking beer and for peace to overcome anxiety. We ask for healing for their nerves and comfort from past trauma. May they feel Your presence and guidance in their journey towards healing. In Jesus' name, we pray. Amen.\n\nIf you need further support or resources, feel free to ask!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:04:38.368Z",
+      "msg": "Amen, thank you, please pray for my husband Jeremy too"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:04:47.201Z",
+      "msg": "Of course! \n\nHeavenly Father, we lift up Jeremy to You. We ask for Your guidance, strength, and healing in his life. May he feel Your love and support as he navigates his own challenges. Surround him with Your peace and comfort, and help him to grow in faith. In Jesus' name, we pray. Amen.\n\nIf there's anything specific you'd like us to pray for regarding Jeremy, please let me know!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:05:33.286Z",
+      "msg": "He needs deliverance from looking at other girls on tv"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:05:44.557Z",
+      "msg": "Thank you for sharing that. Let's pray for Jeremy's deliverance.\n\nHeavenly Father, we come before You, asking for deliverance for Jeremy from the temptation of looking at other girls on TV. We pray that You strengthen him and help him to focus on what is pure and pleasing in Your sight. May he find satisfaction and fulfillment in You alone. We ask that You break any strongholds and fill him with Your Spirit of holiness. In Jesus' name, we pray. Amen.\n\nIf you need more support or resources, just let me know!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:06:11.350Z",
+      "msg": "Thank you so much have a great night"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-30T01:06:29.715Z",
+      "msg": "You're very welcome! I'm glad I could support you. Have a wonderful night, and remember, we're here for you whenever you need us. Take care!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

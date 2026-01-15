@@ -1,0 +1,80 @@
+{
+  "id": "634bac10-1e08-11ef-87de-1f8184f070c7",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1717019917940816",
+    "id": "628ed4ee7b967b11799146e8-aPzEXzMOwRvwFQ3Ete69O",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "North Versailles"
+  },
+  "messageCount": 6,
+  "chatDuration": 112,
+  "rating": 0,
+  "createdOn": "2024-05-29T22:11:55.725Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:11:55.725Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:03.044Z",
+      "msg": "Can you help?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:06.166Z",
+      "msg": "Absolutely, I'm here to help. How can I assist you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:26.715Z",
+      "msg": "Are you a real person or a robot?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:32.251Z",
+      "msg": "I'm an AI assistant here to support you. How can I assist you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:45.083Z",
+      "msg": "Get me a live person"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-05-29T22:13:48.144Z",
+      "msg": "I understand you'd like to speak with a live person. Please email us at prayer@fightlust.com, and someone from our team will get in touch with you. How else can I assist you today?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

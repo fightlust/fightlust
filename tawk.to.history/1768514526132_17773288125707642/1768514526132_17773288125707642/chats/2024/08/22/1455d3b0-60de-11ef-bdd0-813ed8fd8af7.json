@@ -1,0 +1,37 @@
+{
+  "id": "1455d3b0-60de-11ef-bdd0-813ed8fd8af7",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721767894064228",
+    "id": "628ed4ee7b967b11799146e8-fKfzMWIFGajomYV955jNe",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Huntersville"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2024-08-22T23:27:53.082Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-08-22T23:27:53.082Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-22T23:33:35.936Z",
+      "msg": "I pray for all sexual strongholds to be broken off of my life and I pray for the infilling of the holy Spirit to be able to walk in the spirit and purity"
+    }
+  ],
+  "domain": "fightlust.com"
+}

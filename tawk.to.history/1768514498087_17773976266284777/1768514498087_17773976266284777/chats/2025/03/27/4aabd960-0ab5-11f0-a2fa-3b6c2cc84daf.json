@@ -1,0 +1,46 @@
+{
+  "id": "4aabd960-0ab5-11f0-a2fa-3b6c2cc84daf",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1743043419866968",
+    "id": "628ed4ee7b967b11799146e8-4BfzgwL8mxFYfkv3LnTJc",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Vanderbijlpark"
+  },
+  "messageCount": 2,
+  "chatDuration": 232,
+  "rating": 0,
+  "createdOn": "2025-03-27T02:44:12.662Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-03-27T02:44:12.662Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-27T02:47:47.536Z",
+      "msg": "Prayer to fight loneliness and severe procrastination"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-27T02:48:04.946Z",
+      "msg": "We can certainly pray for you! Here’s a prayer you can use:\n\n\"Heavenly Father, we come before you today, asking for your strength to overcome feelings of loneliness and the burden of procrastination. Help us to cast out all spirits of loneliness that would drive us to ungodly relationships. Give us the motivation and clarity to take action in our lives. We submit ourselves to you, trusting that with your guidance, we can resist the enemy and find the courage to move forward. In Jesus' name, we pray. Amen.\"\n\nIf you need more specific prayers or resources, feel free to ask!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

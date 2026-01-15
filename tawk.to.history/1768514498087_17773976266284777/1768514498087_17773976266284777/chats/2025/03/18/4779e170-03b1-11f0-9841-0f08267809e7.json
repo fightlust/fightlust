@@ -1,0 +1,37 @@
+{
+  "id": "4779e170-03b1-11f0-9841-0f08267809e7",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1742267918728954",
+    "id": "628ed4ee7b967b11799146e8-hMPz8yq7zgp1DzuC0nATZ",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Boise"
+  },
+  "messageCount": 2,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2025-03-18T04:27:29.975Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-18T04:27:29.975Z",
+      "msg": "A quick prayer for the night"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-18T04:27:51.029Z",
+      "msg": "?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

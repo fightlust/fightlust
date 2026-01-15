@@ -1,0 +1,80 @@
+{
+  "id": "450319f0-0502-11f0-a23c-a5961e6602ad",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1742416775347356",
+    "id": "628ed4ee7b967b11799146e8-kihBoHHkDL2HGFaes4Gbp",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Johannesburg"
+  },
+  "messageCount": 6,
+  "chatDuration": 544,
+  "rating": 0,
+  "createdOn": "2025-03-19T20:40:07.688Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:40:07.688Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:47:54.364Z",
+      "msg": "Hi and thank you for the Warm welcome"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:47:57.660Z",
+      "msg": "You're very welcome! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:48:54.451Z",
+      "msg": "I have already gotten help thank you so much"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:48:57.694Z",
+      "msg": "That's wonderful to hear! If you ever need guidance, resources, or someone to talk to in the future, feel free to reach out. We're here for you!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:49:08.324Z",
+      "msg": "Thank you."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-19T20:49:12.024Z",
+      "msg": "You're welcome! If you have any questions or need support later on, don't hesitate to ask. Have a great day!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "b58c90f0-4bfe-11f0-8b73-6b7a6f4b8844",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1750221778757843",
+    "id": "628ed4ee7b967b11799146e8-HjjfNIg4AAp7kAgHFadDN",
+    "email": null
+  },
+  "location": {
+    "countryCode": "LK",
+    "city": "Colombo"
+  },
+  "messageCount": 12,
+  "chatDuration": 1211,
+  "rating": 0,
+  "createdOn": "2025-06-18T04:43:30.771Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:43:30.771Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:46:50.317Z",
+      "msg": "Hi"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:47:08.563Z",
+      "msg": "Hello"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:47:22.234Z",
+      "msg": "Yes :)"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:47:33.536Z",
+      "msg": "Are you a human"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:47:49.857Z",
+      "msg": "Are you AI"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:47:54.042Z",
+      "msg": "I’m human"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:48:15.015Z",
+      "msg": "How can I help you"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:48:34.829Z",
+      "msg": "Nope- I’m real"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:48:59.928Z",
+      "msg": "Oops.I thought you are AI.Actually I just wanted to check.Thank you for chatting with me by the way"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:50:00.748Z",
+      "msg": "Thank you and have a nice day sir"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-18T04:50:17.058Z",
+      "msg": "You too!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-18T05:03:41.909Z",
+      "msg": "Hi.Again me.I just wanted to ask this.I feel this heaviness on back of my neck and I guessed it as a negative energy entity.Afe there things like that?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ed264450-5a10-11f0-bfd9-8da49e1b72f4",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1751768919263360",
+    "id": "628ed4ee7b967b11799146e8-TlVgUmBRTD3PB7w4lcvc9",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Moscow"
+  },
+  "messageCount": 6,
+  "chatDuration": 80,
+  "rating": 0,
+  "createdOn": "2025-07-06T02:29:10.729Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:29:10.729Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:40:16.548Z",
+      "msg": "Hello"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:40:20.471Z",
+      "msg": "Hello! Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:41:09.836Z",
+      "msg": "Are you a real person?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:41:14.134Z",
+      "msg": "I'm here to assist you, but I'm not a real person—I'm a customer support assistant. If you need to speak with a human agent, I can help with that! Would you like me to connect you?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:41:30.893Z",
+      "msg": "Yes"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-07-06T02:41:36.723Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey. If you’re unable to reach someone, feel free to email us at prayer@fightlust.com."
+    }
+  ],
+  "domain": "fightlust.com"
+}

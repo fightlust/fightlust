@@ -1,0 +1,97 @@
+{
+  "id": "620bd940-6f17-11f0-902e-7fa726542a0d",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1754080666755274",
+    "id": "628ed4ee7b967b11799146e8-nWKMf_NE_AKR7XvpRux6k",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Round Rock"
+  },
+  "messageCount": 8,
+  "chatDuration": 149,
+  "rating": 0,
+  "createdOn": "2025-08-01T20:38:17.773Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:38:17.773Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:38:58.941Z",
+      "msg": "Please pray for me"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:39:02.317Z",
+      "msg": "Of course! We are here to pray with you. Could you share what specific prayer requests you have or what you're struggling with?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:40:32.178Z",
+      "msg": "I’m married but I have likeness to another. Please pray that God delivers me from this battle in my mind and delivers me from this sin . I have a blessed family and these thoughts are torturing me . Plz pray"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:40:38.236Z",
+      "msg": "Heavenly Father, we come before you today, lifting up this request. We ask for your divine intervention in this struggle. Please deliver this individual from the battle in their mind and cleanse them from any sinful thoughts. Strengthen their heart and mind to focus on the blessings of their family and the love that you have provided. We pray for healing and freedom from these tormenting thoughts, and that they may walk in purity and righteousness. Fill them with your Holy Spirit and guide them towards your truth. In Jesus' name, we pray. Amen.\n\nIf you need further support or resources, feel free to ask!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:41:17.314Z",
+      "msg": "In Jesus name Amen"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:41:22.211Z",
+      "msg": "Amen! We're here for you. If you need anything else or want to talk more, just let me know. Remember, you're not alone in this journey."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:41:22.756Z",
+      "msg": "Thanks"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-08-01T20:41:28.190Z",
+      "msg": "You're welcome! If you have any more questions or need support, feel free to reach out. We're here to help you!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

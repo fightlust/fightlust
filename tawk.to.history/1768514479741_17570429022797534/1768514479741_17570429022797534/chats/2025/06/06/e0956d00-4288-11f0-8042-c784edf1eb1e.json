@@ -1,0 +1,46 @@
+{
+  "id": "e0956d00-4288-11f0-8042-c784edf1eb1e",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1749181609905155",
+    "id": "628ed4ee7b967b11799146e8-OovBFGHpQtYdhfCUjV80K",
+    "email": null
+  },
+  "location": {
+    "countryCode": "MY",
+    "city": "George Town"
+  },
+  "messageCount": 2,
+  "chatDuration": 562,
+  "rating": 0,
+  "createdOn": "2025-06-06T03:47:21.655Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-06-06T03:47:21.655Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-06T03:56:39.328Z",
+      "msg": "Hi Jeremy, my name is Bryan Liew, i'm spirit filled christian, please uphold me in prayer I'm still struggle with lust and masterbation.."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-06T03:56:44.009Z",
+      "msg": "Hi Bryan! Thank you for reaching out. We're here to support you in your journey. Let's pray together:\n\nHeavenly Father, we come before you today, asking for strength and healing for Bryan as he struggles with lust and masturbation. We pray that you fill him with your Holy Spirit and guide him towards purity and freedom in Christ. Help him to overcome these temptations and to find satisfaction in you alone. In Jesus' name, we pray. Amen.\n\nIf you need more specific prayers or resources, feel free to let me know!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

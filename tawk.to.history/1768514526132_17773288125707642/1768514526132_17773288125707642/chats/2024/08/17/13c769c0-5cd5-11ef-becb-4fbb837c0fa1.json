@@ -1,0 +1,80 @@
+{
+  "id": "13c769c0-5cd5-11ef-becb-4fbb837c0fa1",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1721767894064228",
+    "id": "628ed4ee7b967b11799146e8-fKfzMWIFGajomYV955jNe",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Charlotte"
+  },
+  "messageCount": 6,
+  "chatDuration": 159,
+  "rating": 0,
+  "createdOn": "2024-08-17T20:13:21.702Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:13:21.702Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:14:46.440Z",
+      "msg": "I'm praying for deliverance from all sexual sin and salvation"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:14:49.877Z",
+      "msg": "We're here to support you in your prayer for deliverance and salvation. Remember, as you pray, you can renounce all sexual sins and ask for God's strength and healing. If you would like, I can share a powerful deliverance prayer that can guide you through this process. How can I assist you further?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:15:17.650Z",
+      "msg": "You can do that"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:15:20.235Z",
+      "msg": "I can guide you through a prayer for deliverance. Here’s a simple prayer you can use:\n\n\"Dear Lord, I come before You seeking deliverance from all sexual sin. I ask for Your forgiveness for my past actions and for the strength to overcome these struggles. Please cleanse my heart and mind, and fill me with Your Holy Spirit. I trust in Your grace and mercy for my salvation. Help me to walk in purity and to seek You above all else. In Jesus' name, I pray. Amen.\"\n\nFeel free to modify it to reflect your personal feelings and situation. If you need more support or resources, just let me know!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:15:58.470Z",
+      "msg": "Thank you"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-08-17T20:16:00.778Z",
+      "msg": "You're welcome! If you have any more questions or need further support, feel free to reach out. We're here to help you on your journey towards healing. God bless!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

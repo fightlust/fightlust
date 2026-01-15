@@ -1,0 +1,37 @@
+{
+  "id": "2c6a8d50-6d4b-11ef-b826-e70b95101c74",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1725735510658287",
+    "id": "628ed4ee7b967b11799146e8-ZJPBS35kM07WHnalIZfbQ",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Cape Town"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2024-09-07T18:59:02.910Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-09-07T18:59:02.910Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-09-07T19:02:06.309Z",
+      "msg": "Hi"
+    }
+  ],
+  "domain": "fightlust.com"
+}

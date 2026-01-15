@@ -1,0 +1,80 @@
+{
+  "id": "817fbe60-2541-11f0-af1f-2f05e438189a",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1745962372384446",
+    "id": "628ed4ee7b967b11799146e8-iYp8tsbicjejm5lwnj6ak",
+    "email": null
+  },
+  "location": {
+    "countryCode": "ZA",
+    "city": "Cape Town"
+  },
+  "messageCount": 6,
+  "chatDuration": 451,
+  "rating": 0,
+  "createdOn": "2025-04-29T21:33:24.530Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:33:24.530Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:38:42.717Z",
+      "msg": "Good day."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:38:46.368Z",
+      "msg": "Good day! Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:39:55.962Z",
+      "msg": "Please pray for my family. My husband is having an affair. Pray against the spirit of adultery and against the Jezebel spirit so that he can open his eyes and come back home"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:40:08.346Z",
+      "msg": "Thank you for sharing your prayer request. We are here to pray with you and for you. \n\nHeavenly Father, we come before you today, lifting up this family in prayer. We ask that you intervene in this situation and break the spirit of adultery. We pray that you open the eyes of the husband and lead him back home. We renounce any influence of the Jezebel spirit and ask for healing and restoration in this marriage. Fill their hearts with love, understanding, and forgiveness. In the name of Jesus Christ, we pray. Amen.\n\nIf you need further support or resources, feel free to let me know!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:40:50.902Z",
+      "msg": "Thank you."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-04-29T21:40:55.197Z",
+      "msg": "You're welcome! If you need anything else or have more prayer requests, feel free to reach out. We're here to support you!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ad1bbe60-ebd6-11ef-85de-17fecee01f2a",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1739648860864167",
+    "id": "628ed4ee7b967b11799146e8-gp_3F2a_lHCUoCkZpGrgq",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Dallas"
+  },
+  "messageCount": 6,
+  "chatDuration": 209,
+  "rating": 0,
+  "createdOn": "2025-02-15T19:55:04.156Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:55:04.156Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:56:50.396Z",
+      "msg": "I just failed"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:57:01.207Z",
+      "msg": "I'm sorry to hear that you're feeling this way. Remember, setbacks are a part of the journey. We're here to offer encouragement and remind you of God's grace. Would you like to share more about how you're feeling or perhaps a prayer request?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:57:52.379Z",
+      "msg": "Idk why I keep failing him.... I feel bad because I was litterly asking for help and I didn't take it completely"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:58:03.675Z",
+      "msg": "It's completely understandable to feel that way, but remember that you're not alone in this struggle. Many people face similar challenges. It's important to keep seeking help and to lean on God's strength. Would you like to talk about specific areas where you feel you need support? We can also pray together for guidance and strength."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:58:21.184Z",
+      "msg": "I hate my masturbation"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-02-15T19:58:32.960Z",
+      "msg": "It's great that you're expressing your feelings about this. Struggling with habits like masturbation can be tough, but it's important to focus on seeking Christ for strength and freedom. Remember, the root issue often lies in not being satisfied in Him. Would you like to discuss some strategies or prayers that can help you in this journey?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

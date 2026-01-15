@@ -1,0 +1,46 @@
+{
+  "id": "336a01d0-a0b7-11f0-aa94-4b112dfef3cc",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1759536915008765",
+    "id": "628ed4ee7b967b11799146e8-oiuDodgCYfcH5SYM2r85w",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Sterling Heights"
+  },
+  "messageCount": 2,
+  "chatDuration": 3,
+  "rating": 0,
+  "createdOn": "2025-10-04T00:15:45.932Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-10-04T00:15:45.932Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-04T00:22:28.390Z",
+      "msg": "I feel like I have lost the anointing of God on my life"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-04T00:22:31.603Z",
+      "msg": "I'm sorry to hear that you're feeling this way. It's important to remember that God is always with us, and we can seek His presence through prayer and worship. Would you like to share a specific prayer request or talk more about what you're experiencing? We're here to support you."
+    }
+  ],
+  "domain": "fightlust.com"
+}

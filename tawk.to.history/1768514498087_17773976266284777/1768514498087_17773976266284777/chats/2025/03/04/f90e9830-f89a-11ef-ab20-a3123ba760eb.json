@@ -1,0 +1,46 @@
+{
+  "id": "f90e9830-f89a-11ef-ab20-a3123ba760eb",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1736812844044273",
+    "id": "628ed4ee7b967b11799146e8-2z_lVejxBU8FvtuYnRvGg",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Salem"
+  },
+  "messageCount": 2,
+  "chatDuration": 896,
+  "rating": 0,
+  "createdOn": "2025-03-04T01:50:08.653Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:50:08.653Z",
+      "msg": "i need to talk with a real person"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:50:13.548Z",
+      "msg": "Before we connect you with a ministry team member, please provide a few details so we can serve you better.",
+      "attchs": [
+        {
+          "type": "lead-capture-form",
+          "content": {
+            "ref": "lcf.EcLJeoB0Fk3KM-AWQfKhF"
+          }
+        }
+      ]
+    }
+  ],
+  "domain": "fightlust.com"
+}

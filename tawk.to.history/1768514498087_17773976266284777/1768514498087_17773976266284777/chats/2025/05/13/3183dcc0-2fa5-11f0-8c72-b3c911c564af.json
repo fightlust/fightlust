@@ -1,0 +1,55 @@
+{
+  "id": "3183dcc0-2fa5-11f0-8c72-b3c911c564af",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1744579653427634",
+    "id": "628ed4ee7b967b11799146e8-TykvDK_2TUjKKxTntxdPT",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Unknown"
+  },
+  "messageCount": 4,
+  "chatDuration": 56,
+  "rating": 0,
+  "createdOn": "2025-05-13T02:51:50.235Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-13T02:51:50.235Z",
+      "msg": "live agent"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-13T02:51:54.622Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey. If you’re unable to reach someone, feel free to email us at prayer@fightlust.com."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-13T02:52:40.909Z",
+      "msg": "live agent"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-13T02:52:46.683Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey. If you’re unable to reach someone, feel free to email us at prayer@fightlust.com."
+    }
+  ],
+  "domain": "fightlust.com"
+}

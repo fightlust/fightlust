@@ -1,0 +1,80 @@
+{
+  "id": "9d4b41a0-4ea5-11ef-894c-85c767de33a4",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1722347942799715",
+    "id": "628ed4ee7b967b11799146e8-JT426rI4G6Lv7OgCV3nvi",
+    "email": null
+  },
+  "location": {
+    "countryCode": "JM",
+    "city": "Kingston"
+  },
+  "messageCount": 6,
+  "chatDuration": 1071,
+  "rating": 0,
+  "createdOn": "2024-07-30T18:58:20.143Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2024-07-30T18:58:20.143Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:14:11.070Z",
+      "msg": "Asking for prayer"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:14:14.675Z",
+      "msg": "Do you want to share a specific prayer request? We're here to pray with you and for you."
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:15:05.350Z",
+      "msg": "Prayer for God protection and against lust"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:15:12.253Z",
+      "msg": "Heavenly Father, we come before your throne today, asking for your protection and strength against the spirit of lust. We renounce all sexual sins and break any curses associated with them in the name of Jesus Christ. We cast out all spirits of perversion and ask for the Spirit of holiness to fill our lives. Lord, help us to walk in sexual purity and overcome the temptations that come our way. We thank you for your healing and deliverance. Amen. \n\nIf you need further support or resources, feel free to ask!"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:16:05.246Z",
+      "msg": "Amen"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2024-07-30T19:16:11.012Z",
+      "msg": "Amen! If there's anything else you need or if you'd like to talk more, just let me know. We're here to support you!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

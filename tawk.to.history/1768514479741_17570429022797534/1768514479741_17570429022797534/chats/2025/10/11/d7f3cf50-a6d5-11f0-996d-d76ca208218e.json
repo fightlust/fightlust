@@ -1,0 +1,97 @@
+{
+  "id": "d7f3cf50-a6d5-11f0-996d-d76ca208218e",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1756474796796518",
+    "id": "628ed4ee7b967b11799146e8-WIgnpzJ66V1Z997s0J2Ge",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Westwego"
+  },
+  "messageCount": 8,
+  "chatDuration": 64,
+  "rating": 0,
+  "createdOn": "2025-10-11T19:10:14.154Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:10:14.154Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:10:31.792Z",
+      "msg": "Hi is anyone here"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:10:36.872Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:10:45.148Z",
+      "msg": "Are you real"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:10:49.443Z",
+      "msg": "Yes, I'm here to help you! If you have any questions or need support, feel free to ask. How can I assist you today?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:11:08.288Z",
+      "msg": "No I mean is this AI or a person"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:11:15.652Z",
+      "msg": "I'm an AI assistant here to provide support and information. If you need to speak with a human agent, I can escalate the conversation for you. Would you like me to do that?"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:11:27.308Z",
+      "msg": "Please escalate"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-11T19:11:35.479Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey. If you’re unable to reach someone, feel free to email us at prayer@fightlust.com."
+    }
+  ],
+  "domain": "fightlust.com"
+}

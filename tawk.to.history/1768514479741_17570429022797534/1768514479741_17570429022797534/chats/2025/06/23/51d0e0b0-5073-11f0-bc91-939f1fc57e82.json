@@ -1,0 +1,38 @@
+{
+  "id": "51d0e0b0-5073-11f0-bc91-939f1fc57e82",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1750308197142907",
+    "id": "628ed4ee7b967b11799146e8-3ceZB5OQV3IDdqAaH8TGd",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Salem"
+  },
+  "messageCount": 2,
+  "chatDuration": 3,
+  "rating": 0,
+  "createdOn": "2025-06-23T20:48:14.482Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-06-23T20:48:14.482Z",
+      "msg": "hello"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-06-23T20:48:17.130Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    }
+  ],
+  "domain": "fightlust.com"
+}

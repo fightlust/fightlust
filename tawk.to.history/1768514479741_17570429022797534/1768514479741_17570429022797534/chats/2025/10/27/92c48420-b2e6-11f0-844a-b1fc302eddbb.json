@@ -1,0 +1,46 @@
+{
+  "id": "92c48420-b2e6-11f0-844a-b1fc302eddbb",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1761536382232238",
+    "id": "628ed4ee7b967b11799146e8-JgYETfRxe81orVwU0S_CW",
+    "email": null
+  },
+  "location": {
+    "countryCode": "BW",
+    "city": "Gaborone"
+  },
+  "messageCount": 2,
+  "chatDuration": 9,
+  "rating": 0,
+  "createdOn": "2025-10-27T03:40:14.268Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-10-27T03:40:14.268Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-10-27T03:46:05.376Z",
+      "msg": "Good morning. Please i seek prayers for my husband against the spirit of lust."
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-10-27T03:46:14.533Z",
+      "msg": "Good morning! Thank you for reaching out. We would be happy to pray for your husband against the spirit of lust. Here’s a prayer you can use:\n\n---\n\nHeavenly Father, we come before you today, asking for your strength and guidance. We pray against the spirit of lust that may be affecting my husband. We ask that you cleanse his heart and mind, and help him to walk in purity and righteousness. Fill him with your Holy Spirit and guide him away from temptation. We trust in your power to heal and restore. In Jesus' name, we pray. Amen.\n\n---\n\nIf you have any specific requests or need further support, feel free to share!"
+    }
+  ],
+  "domain": "fightlust.com"
+}

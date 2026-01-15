@@ -1,0 +1,63 @@
+{
+  "id": "8fb12250-f899-11ef-ab20-a3123ba760eb",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1736812844044273",
+    "id": "628ed4ee7b967b11799146e8-2z_lVejxBU8FvtuYnRvGg",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Salem"
+  },
+  "messageCount": 4,
+  "chatDuration": 597,
+  "rating": 0,
+  "createdOn": "2025-03-04T01:39:59.266Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:39:59.266Z",
+      "msg": "hello"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:40:07.200Z",
+      "msg": "i would like to speak to a live person"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:40:12.975Z",
+      "msg": "Welcome to FightLust.com! How can we support you in your journey towards healing today?"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-03-04T01:40:19.826Z",
+      "msg": "Before we connect you with a ministry team member, please provide a few details so we can serve you better.",
+      "attchs": [
+        {
+          "type": "lead-capture-form",
+          "content": {
+            "ref": "lcf.iLvZtxEdu7eFaEhy1X2Fs"
+          }
+        }
+      ]
+    }
+  ],
+  "domain": "fightlust.com"
+}

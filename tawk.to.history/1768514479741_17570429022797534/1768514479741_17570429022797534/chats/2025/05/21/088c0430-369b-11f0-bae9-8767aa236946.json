@@ -1,0 +1,46 @@
+{
+  "id": "088c0430-369b-11f0-bae9-8767aa236946",
+  "type": "chat",
+  "pageId": "628ed4ee7b967b11799146e8",
+  "visitor": {
+    "name": "V1747869127938270",
+    "id": "628ed4ee7b967b11799146e8-DDUDBUbwmkoM1ADkJ7i4u",
+    "email": null
+  },
+  "location": {
+    "countryCode": "US",
+    "city": "Unknown"
+  },
+  "messageCount": 2,
+  "chatDuration": 35,
+  "rating": 0,
+  "createdOn": "2025-05-21T23:27:05.549Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2025-05-21T23:27:05.549Z",
+      "msg": "Welcome to our site! If you are looking for prayer or someone to chat with, reply to this message or email us at prayer@fightlust.com"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2025-05-21T23:27:30.297Z",
+      "msg": "Someone to chat with"
+    },
+    {
+      "sender": {
+        "t": "a",
+        "n": "Jeremy"
+      },
+      "type": "msg",
+      "time": "2025-05-21T23:27:40.223Z",
+      "msg": "We understand that sometimes you need to talk to a real person for prayer, guidance, or encouragement. We are here to support you. Please hold as we connect you with a ministry team member who can assist you in your journey. If you’re unable to reach someone, feel free to email us at prayer@fightlust.com."
+    }
+  ],
+  "domain": "fightlust.com"
+}
